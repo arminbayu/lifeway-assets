@@ -1,4 +1,5 @@
 {
     "version": "1.0.13+1",
-    "force_update": false
+    "force_update": false,
+    "deskripsi": "Oke, aku buatin full code versi kamu yang sudah cek versi dari GitHub dan kalau beda langsung tampilkan halaman Update Required sebelum masuk ke aplikasi. Kita akan pakai raw.githubusercontent.com biar JSON bisa di-parse."
 }
